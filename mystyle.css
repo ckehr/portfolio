@@ -1,0 +1,85 @@
+body {
+  background-color: black;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+h1 {
+  color: white;
+  margin-bottom: 0.1em;
+  font-family: "Lucida Console", Georgia, serif;
+  font-size: 3em;
+  background-image: url(https://etfguide.com/wp-content/uploads/2015/02/CyberSecurity.jpg);
+  background-repeat: repeat;
+  text-align: center;
+}
+.box {
+  color: green;
+  font: sans-serif;
+  display: inline-block;
+  font-size: 50px;
+  padding: 10px;
+}
+.img {
+  display: inline-block;
+  margin: 0 auto;
+  cursor: help;
+}
+.image-box {
+  width:1050px;  /* WILLIAM EDIT: set width */
+  margin: 0 auto;
+}
+.gif {
+  cursor: help;
+  padding-top: 5em;
+  align-items: center;
+  margin: 0 auto;
+  display:block; /* WILLIAM EDIT: sety display to block */
+}
+ul {
+  padding-left: 30em;
+}
+p {
+  color: green;
+  font-family: "times new roman";
+  text-align: center;
+  font-size: 30px;
+}
+.button {
+  font-family: "courier";
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-align: center;
+  margin:0 auto;
+  display:block; /* William Edit:Set display to block*/
+  width:250;
+}
+.nyt {
+  padding: 15px 32px;
+  margin:0 auto;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none
+}
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none
+}
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline
+}
